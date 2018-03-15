@@ -1,0 +1,8 @@
+---
+:column: 4
+:row: 5
+:is_front_page: false
+:top_story: true
+:top_position: true
+:underflow: true
+:empty_lines: 8
